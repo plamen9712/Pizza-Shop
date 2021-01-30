@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Web\\PizzaBytesApp.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj",
+        "projectName": "PizzaBytesApp.Common",
+        "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj",
+        "projectName": "PizzaBytesApp.Data",
+        "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\PizzaBytesApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\PizzaBytesApp.Services.csproj",
+        "projectName": "PizzaBytesApp.Services",
+        "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\PizzaBytesApp.Services.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj": {
+                "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj"
+              },
+              "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Web\\PizzaBytesApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Web\\PizzaBytesApp.Web.csproj",
+        "projectName": "PizzaBytesApp.Web",
+        "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Web\\PizzaBytesApp.Web.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj": {
+                "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Common\\PizzaBytesApp.Common.csproj"
+              },
+              "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Data\\PizzaBytesApp.Data.csproj"
+              },
+              "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\PizzaBytesApp.Services.csproj": {
+                "projectPath": "C:\\Users\\Plamen\\Desktop\\New folder\\Project C# mvc\\PizzaBytesApp.Services\\PizzaBytesApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

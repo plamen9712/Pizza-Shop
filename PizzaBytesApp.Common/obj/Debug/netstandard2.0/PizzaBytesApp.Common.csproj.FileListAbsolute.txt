@@ -1,0 +1,45 @@
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.deps.json
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfoInputs.cache
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfo.cs
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+C:\Users\Kaiba\source\repos\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.deps.json
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfoInputs.cache
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfo.cs
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+C:\Users\Kaiba\Desktop\pizashop\PizzaBytesApp\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\projectt\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.deps.json
+D:\projectt\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\projectt\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csprojResolveAssemblyReference.cache
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csproj.CoreCompileInputs.cache
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfoInputs.cache
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfo.cs
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\projectt\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.deps.json
+D:\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csprojResolveAssemblyReference.cache
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csproj.CoreCompileInputs.cache
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfoInputs.cache
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfo.cs
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.deps.json
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\bin\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csprojAssemblyReference.cache
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfoInputs.cache
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.AssemblyInfo.cs
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.csproj.CoreCompileInputs.cache
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.dll
+D:\Downloads\Uroci\Uroci\Project C# mvc\PizzaBytesApp.Common\obj\Debug\netstandard2.0\PizzaBytesApp.Common.pdb
